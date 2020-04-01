@@ -4,3 +4,5 @@ A demo of some of my essential JavaScript skills, including:
 • creating objects from a function constructor <br>
 • easily understood naming conventions <br>
 • modular code <br>
+
+You can read the game rules in Code.js.
