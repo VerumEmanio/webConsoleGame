@@ -1,3 +1,11 @@
+/* //////
+Game Overview
+/////
+The console will prompt the user with a randomly selected question and track the number of answers that are correct.
+When prompted to answer the question, the user must be able to exit the game by typing 'exit'. All of the code
+should be private in case a developer wants to use this game as a plugin.
+*/
+
 (function() {
 var Question = function(theQuestion, choices, correctAnswer) {
     this.theQuestion = theQuestion,
